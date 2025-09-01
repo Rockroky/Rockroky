@@ -1,59 +1,60 @@
-<!--
-  Video di YouTube come background in loop,
-  overlay nero leggero sopra,
-  testo "Rockroky 👋" centrato in primo piano.
--->
-<style>
-.bg-container {
-  position: relative;
-  width: 100vw;
-  height: 400px;
-  overflow: hidden;
-}
-.bg-video {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  min-width: 100vw;
-  min-height: 400px;
-  width: auto;
-  height: auto;
-  transform: translate(-50%, -50%);
-  z-index: 1;
-  pointer-events: none;
-  filter: blur(0.5px);
-}
-.bg-overlay {
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,0.55);
-  z-index: 2;
-}
-.bg-text {
-  position: absolute;
-  top: 50%; left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 3;
-  color: #fff;
-  font-size: 4rem;
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  text-shadow: 0 0 18px #ff0000, 0 0 4px #000;
-  letter-spacing: 2px;
-  text-align: center;
-  user-select: none;
-}
-</style>
+<!-- Banner animato personalizzato (puoi sostituire il link con una GIF/SVG animata se vuoi un effetto "video") -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e48aa,100:9d50bb&height=200&section=header&text=Rockroky%20👋&fontSize=50&fontColor=fff" alt="banner"/>
+</p>
 
-<div class="bg-container">
-  <!-- YouTube embed con autoplay, loop, senza controls -->
-  <iframe
-    class="bg-video"
-    src="https://www.youtube.com/embed/P_G_NCD-6rE?autoplay=1&mute=1&controls=0&showinfo=0&rel=0&loop=1&playlist=P_G_NCD-6rE&modestbranding=1"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-  ></iframe>
-  <div class="bg-overlay"></div>
-  <div class="bg-text">Rockroky 👋</div>
-</div>
+<h1 align="center">Ciao, sono Rockroky! 👨‍💻</h1>
+<p align="center">
+  <b>Appassionato di tecnologia, coding e innovazione.</b>
+</p>
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rockroky&style=flat-square&color=blue" alt=""/>
+</p>
+
+---
+
+## 🚀 Su di me
+
+- 🔭 Attualmente sto lavorando su **progetti open source e personali**
+- 🌱 Sto approfondendo **TypeScript, React, Node.js**
+- 👯 Cerco collaborazioni su **progetti innovativi**
+- 💬 Chiedimi di **JavaScript, Web Development, automazione**
+- 📫 Come contattarmi: <b>your.email@example.com</b>
+- 😄 Pronomi: **lui/lui**
+- ⚡ Curiosità: **Amo imparare cose nuove ogni giorno!**
+
+---
+
+## 🛠️ Competenze & Tecnologie
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📈 Statistiche GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockroky&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical" alt="langs"/>
+</p>
+
+---
+
+## 🌐 Dove trovarmi
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [Twitter](https://twitter.com/your-twitter)
+- [Email](mailto:your.email@example.com)
+
+---
+
+<!--
+**Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
