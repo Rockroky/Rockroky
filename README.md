@@ -1,6 +1,6 @@
-<!-- Banner personalizzato -->
+<!-- Banner animato SVG in stile "hero" -->
 <p align="center">
-  <img src="https://i.postimg.cc/LhVm3zf4/wallpaper.png" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e48aa,100:9d50bb&height=200&section=header&text=Rockroky%20👋&fontSize=50&fontColor=fff" alt="banner"/>
 </p>
 
 <h1 align="center">Ciao, sono Rockroky! 👨‍💻</h1>
