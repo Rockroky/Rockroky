@@ -1,6 +1,6 @@
-<!-- Banner animato personalizzato (puoi sostituire il link con una GIF/SVG animata se vuoi un effetto "video") -->
+<!-- Banner personalizzato -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e48aa,100:9d50bb&height=200&section=header&text=Rockroky%20👋&fontSize=50&fontColor=fff" alt="banner"/>
+  <img src="assets/banner.png" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">Ciao, sono Rockroky! 👨‍💻</h1>
