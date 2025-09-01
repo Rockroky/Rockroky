@@ -1,6 +1,6 @@
 <!-- Banner personalizzato -->
 <p align="center">
-  <img src=img src='https://i.postimg.cc/LhVm3zf4/wallpaper.png' border='0' alt='wallpaper'/>
+  <img src="https://i.postimg.cc/LhVm3zf4/wallpaper.png" alt="banner" width="100%"/>
 </p>
 
 <h1 align="center">Ciao, sono Rockroky! 👨‍💻</h1>
