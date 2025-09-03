@@ -56,5 +56,5 @@
 ---
 
 <!--
-**Rockroky/Rockroky** is a ✨a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rockroky/Rockroky** is a✨a _special_ ✨repository because its `README.md` (this file) appears on your GitHub profile.
 -->
