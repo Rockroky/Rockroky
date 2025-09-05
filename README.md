@@ -1,6 +1,6 @@
 <!-- Banner animato SVG in stile "hero" -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e48aa,100:9d50bb&height=200&section=header&text=Rockroky%20👋&fontSize=50&fontColor=fff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=200&section=header&text=Rockroky%20👋&fontSize=50&fontColor=fff" alt="banner"/>
 </p>
 
 <h1 align="center">Ciao, sono Rockroky! 👨‍💻</h1>
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Rockroky&style=flat-square&color=blue" alt=""/>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6E0E0E?style=flat-square&logo=gmail&logoColor=fff"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-9F0F10?style=flat-square&logo=linkedin&logoColor=fff"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-BE0606?style=flat-square&logo=twitter&logoColor=fff"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rockroky&style=flat-square&color=D61515" alt=""/>
 </p>
 
 ---
@@ -32,7 +32,18 @@
 ## 🛠️ Competenze & Tecnologie
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode,linux" />
+  <!-- Skillicons personalizzati con colori coerenti -->
+  <img src="https://skillicons.dev/icons?i=js&theme=light&background=010200" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=light&background=6E0E0E" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light&background=9F0F10" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light&background=BE0606" />
+  <img src="https://skillicons.dev/icons?i=html&theme=light&background=D61515" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light&background=010200" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light&background=6E0E0E" />
+  <img src="https://skillicons.dev/icons?i=git&theme=light&background=9F0F10" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light&background=BE0606" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light&background=D61515" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light&background=010200" />
 </p>
 
 ---
@@ -40,9 +51,9 @@
 ## 📈 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockroky&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical&bg_color=010200&title_color=D61515&icon_color=BE0606&text_color=fff" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockroky&theme=radical&background=010200&ring=D61515&fire=BE0606&currStreakLabel=9F0F10" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical&bg_color=010200&title_color=BE0606&text_color=fff" alt="langs"/>
 </p>
 
 ---
@@ -56,5 +67,5 @@
 ---
 
 <!--
-**Rockroky/Rockroky** is a✨a _special_ ✨repository because its `README.md` (this file) appears on your GitHub profile.
+**Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
