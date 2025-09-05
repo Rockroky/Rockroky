@@ -32,17 +32,13 @@
 ## 🛠️ Competenze & Tecnologie
 
 <p align="center" style="margin: 1.5em 0;">
-  <img src="https://skillicons.dev/icons?i=js&theme=light&background=010200" height="48"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=light&background=6E0E0E" height="48"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=light&background=9F0F10" height="48"/>
+  <img src="https://skillicons.dev/icons?i=debian&theme=light&background=010200" height="48"/>
+  <img src="https://skillicons.dev/icons?i=php&theme=light&background=6E0E0E" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=light&background=9F0F10" height="48"/>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=light&background=BE0606" height="48"/>
   <img src="https://skillicons.dev/icons?i=html&theme=light&background=D61515" height="48"/>
   <img src="https://skillicons.dev/icons?i=css&theme=light&background=010200" height="48"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=light&background=6E0E0E" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=light&background=9F0F10" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=light&background=BE0606" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light&background=D61515" height="48"/>
-  <img src="https://skillicons.dev/icons?i=linux&theme=light&background=010200" height="48"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="48"/>
 </p>
 
 ---
