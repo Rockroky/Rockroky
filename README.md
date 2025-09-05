@@ -1,18 +1,18 @@
 <!-- Banner animato SVG in stile "hero" -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=200&section=header&text=Rockroky%20👋&fontSize=50&fontColor=fff" alt="banner"/>
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=220&section=header&text=Rockroky%20👋&fontSize=54&fontColor=ffffff" alt="banner" width="100%" style="max-width:900px;min-width:320px;"/>
 </p>
 
-<h1 align="center">Ciao, sono Rockroky! 👨‍💻</h1>
-<p align="center">
+<h1 align="center" style="margin-top: 0; margin-bottom: 0.5em;">Ciao, sono Rockroky! 👨‍💻</h1>
+<p align="center" style="font-size:1.2em;">
   <b>Appassionato di tecnologia, coding e innovazione.</b>
 </p>
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6E0E0E?style=flat-square&logo=gmail&logoColor=fff"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-9F0F10?style=flat-square&logo=linkedin&logoColor=fff"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-BE0606?style=flat-square&logo=twitter&logoColor=fff"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Rockroky&style=flat-square&color=D61515" alt=""/>
+<p align="center" style="margin: 1em 0;">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6E0E0E?style=for-the-badge&logo=gmail&logoColor=fff" height="32"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-9F0F10?style=for-the-badge&logo=linkedin&logoColor=fff" height="32"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-BE0606?style=for-the-badge&logo=twitter&logoColor=fff" height="32"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rockroky&style=for-the-badge&color=D61515" height="32" alt=""/>
 </p>
 
 ---
@@ -31,29 +31,28 @@
 
 ## 🛠️ Competenze & Tecnologie
 
-<p align="center">
-  <!-- Skillicons personalizzati con colori coerenti -->
-  <img src="https://skillicons.dev/icons?i=js&theme=light&background=010200" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=light&background=6E0E0E" />
-  <img src="https://skillicons.dev/icons?i=react&theme=light&background=9F0F10" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light&background=BE0606" />
-  <img src="https://skillicons.dev/icons?i=html&theme=light&background=D61515" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light&background=010200" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light&background=6E0E0E" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light&background=9F0F10" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light&background=BE0606" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light&background=D61515" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=light&background=010200" />
+<p align="center" style="margin: 1.5em 0;">
+  <img src="https://skillicons.dev/icons?i=js&theme=light&background=010200" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=light&background=6E0E0E" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=light&background=9F0F10" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light&background=BE0606" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=light&background=D61515" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=light&background=010200" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=light&background=6E0E0E" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light&background=9F0F10" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light&background=BE0606" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light&background=D61515" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=light&background=010200" height="48"/>
 </p>
 
 ---
 
 ## 📈 Statistiche GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical&bg_color=010200&title_color=D61515&icon_color=BE0606&text_color=fff" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockroky&theme=radical&background=010200&ring=D61515&fire=BE0606&currStreakLabel=9F0F10" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical&bg_color=010200&title_color=BE0606&text_color=fff" alt="langs"/>
+<p align="center" style="margin: 2em 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical&bg_color=010200&title_color=D61515&icon_color=BE0606&text_color=fff&border_radius=18&hide_border=true" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockroky&theme=radical&background=010200&ring=D61515&fire=BE0606&currStreakLabel=9F0F10&border=0E0E0E00&dates=fff" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical&bg_color=010200&title_color=BE0606&text_color=fff&border_radius=18&hide_border=true" alt="langs" height="180"/>
 </p>
 
 ---
@@ -68,4 +67,5 @@
 
 <!--
 **Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 -->
