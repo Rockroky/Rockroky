@@ -42,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=html&theme=dark&background=9F0F10" height="48"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark&background=BE0606" height="48"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark&background=D61515" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&background=010200" height="48"/>
 </p>
 
 ---
