@@ -1,6 +1,13 @@
 <!-- Banner animato SVG in stile "hero" -->
 <p align="center" style="margin-bottom: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=220&section=header&text=Rockroky%20👋&fontSize=54&fontColor=ffffff&desc=&descAlign=50&textAlign=50" alt="banner" width="100%" style="max-width:900px;min-width:320px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=220&section=header&text=&fontSize=54&fontColor=ffffff&desc=&descAlign=50&textAlign=50" alt="banner" width="100%" style="max-width:900px;min-width:320px;"/>
+</p>
+
+<!-- Banner portfolio animato e ottimizzato -->
+<p align="center" style="margin: 0.5em 0 2em 0;">
+  <a href="https://rockroky-portfolio.example.com" target="_blank" rel="noopener">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=D61515&center=true&vCenter=true&width=700&lines=Visita+il+mio+Portfolio+Online!;Scopri+i+miei+progetti+pi%C3%B9+recenti;rockroky-portfolio.example.com" alt="Portfolio Banner" style="border-radius:0;box-shadow:0 4px 24px #01020033;"/>
+  </a>
 </p>
 
 <h1 align="center" style="margin-top: 0; margin-bottom: 0.5em;">Ciao, sono Rockroky! 👨‍💻</h1>
@@ -67,5 +74,4 @@
 
 <!--
 **Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 -->
