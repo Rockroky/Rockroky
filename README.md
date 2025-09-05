@@ -1,6 +1,6 @@
 <!-- Banner animato SVG in stile "hero" -->
 <p align="center" style="margin-bottom: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=220&section=header&text=Rockroky%20👋&fontSize=54&fontColor=ffffff" alt="banner" width="100%" style="max-width:900px;min-width:320px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=220&section=header&text=Rockroky%20👋&fontSize=54&fontColor=ffffff&desc=&descAlign=50&textAlign=50" alt="banner" width="100%" style="max-width:900px;min-width:320px;"/>
 </p>
 
 <h1 align="center" style="margin-top: 0; margin-bottom: 0.5em;">Ciao, sono Rockroky! 👨‍💻</h1>
@@ -50,9 +50,9 @@
 ## 📈 Statistiche GitHub
 
 <p align="center" style="margin: 2em 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical&bg_color=010200&title_color=D61515&icon_color=BE0606&text_color=fff&border_radius=18&hide_border=true" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockroky&theme=radical&background=010200&ring=D61515&fire=BE0606&currStreakLabel=9F0F10&border=0E0E0E00&dates=fff" alt="streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical&bg_color=010200&title_color=BE0606&text_color=fff&border_radius=18&hide_border=true" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical&bg_color=010200&title_color=D61515&icon_color=BE0606&text_color=fff&border_radius=0&hide_border=true" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockroky&theme=radical&background=010200&ring=D61515&fire=BE0606&currStreakLabel=9F0F10&border=0E0E0E00&dates=fff&border_radius=0" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical&bg_color=010200&title_color=BE0606&text_color=fff&border_radius=0&hide_border=true" alt="langs" height="180"/>
 </p>
 
 ---
