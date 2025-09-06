@@ -64,13 +64,13 @@
 
 ---
 
-<!-- Footer Banner Portfolio animato -->
+<!-- Footer Banner Wave effect -->
 <p align="center" style="margin: 2em 0 0 0;">
-  <a href="https://rockroky-portfolio.example.com" target="_blank" rel="noopener">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=180&section=footer&text=Visita%20il%20mio%20Portfolio&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Scopri%20i%20miei%20progetti%20più%20recenti&descSize=18&descAlignY=75" alt="Portfolio Banner" width="100%" style="max-width:900px;min-width:320px;"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=180&section=footer" alt="Footer Wave" width="100%" style="max-width:900px;min-width:320px;"/>
 </p>
 
 <!--
+**Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 **Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
