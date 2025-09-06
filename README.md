@@ -68,9 +68,3 @@
 <p align="center" style="margin: 2em 0 0 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010200,25:6E0E0E,50:9F0F10,75:BE0606,100:D61515&height=180&section=footer" alt="Footer Wave" width="100%" style="max-width:900px;min-width:320px;"/>
 </p>
-
-<!--
-**Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-**Rockroky/Rockroky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
