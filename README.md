@@ -11,7 +11,6 @@
 <p align="center" style="margin: 1em 0;">
   <a href="mailto:rosariom77@outlook.it"><img src="https://img.shields.io/badge/Email-6E0E0E?style=for-the-badge&logo=gmail&logoColor=fff" height="32"/></a>
   <a href="https://open.spotify.com/user/mqwbzpl27pay9ku04jsd3zth7"><img src="https://img.shields.io/badge/Spotify-9F0F10?style=for-the-badge&logo=spotify&logoColor=fff" height="32"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-BE0606?style=for-the-badge&logo=twitter&logoColor=fff" height="32"/></a>
   <img src="https://komarev.com/ghpvc/?username=Rockroky&style=for-the-badge&color=D61515" height="32" alt=""/>
 </p>
 
@@ -19,13 +18,10 @@
 
 ## 🚀 Su di me
 
-- 🔭 Attualmente sto lavorando su **progetti open source e personali**
+- 🔭 Attualmente sto lavorando alla **Versione 2 Di ASKY**
 - 🌱 Sto approfondendo **TypeScript, React, Node.js**
-- 👯 Cerco collaborazioni su **progetti innovativi**
-- 💬 Chiedimi di **JavaScript, Web Development, automazione**
-- 📫 Come contattarmi: <b>your.email@example.com</b>
-- 😄 Pronomi: **lui/lui**
-- ⚡ Curiosità: **Amo imparare cose nuove ogni giorno!**
+- 💬 Scopri di più su asky nel mio profilo
+- 📫 Come contattarmi: <b>rosariom77@outlook.it</b>
 
 ---
 
@@ -56,11 +52,11 @@
 
 ---
 
-## 🌐 Dove trovarmi
+## 🌐 I Miei Social
 
 - [Spotify](https://open.spotify.com/user/mqwbzpl27pay9ku04jsd3zth7)
-- [Twitter](https://twitter.com/your-twitter)
-- [Email](mailto:rosariom77@outlook.it)
+- [Instagram](https://www.instagram.com/_rockroky)
+- [Twitch](https://www.twitch.tv/rockroky)
 
 ---
 
