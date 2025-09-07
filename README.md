@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="margin: 1em 0;">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6E0E0E?style=for-the-badge&logo=gmail&logoColor=fff" height="32"/></a>
+  <a href="mailto:rosariom77@outlook.it"><img src="https://img.shields.io/badge/Email-6E0E0E?style=for-the-badge&logo=gmail&logoColor=fff" height="32"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-9F0F10?style=for-the-badge&logo=linkedin&logoColor=fff" height="32"/></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-BE0606?style=for-the-badge&logo=twitter&logoColor=fff" height="32"/></a>
   <img src="https://komarev.com/ghpvc/?username=Rockroky&style=for-the-badge&color=D61515" height="32" alt=""/>
