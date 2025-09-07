@@ -11,11 +11,15 @@
 <p align="center" style="margin: 1em 0;">
   <a href="mailto:rosariom77@outlook.it"><img src="https://img.shields.io/badge/Email-6E0E0E?style=for-the-badge&logo=gmail&logoColor=fff" height="32"/></a>
   <a href="https://open.spotify.com/user/mqwbzpl27pay9ku04jsd3zth7"><img src="https://img.shields.io/badge/Spotify-9F0F10?style=for-the-badge&logo=spotify&logoColor=fff" height="32"/></a>
-  <a href="https://open.spotify.com/user/mqwbzpl27pay9ku04jsd3zth7">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=mqwbzpl27pay9ku04jsd3zth7&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&bar_color=BE0606" height="32" alt="Spotify Now Playing"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rockroky&style=for-the-badge&color=D61515" height="32" alt=""/>
 </p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/mqwbzpl27pay9ku04jsd3zth7">
+    <img src="https://novatorem-khaki-ten.vercel.app/api/spotify?background_color=0d1117&border_color=BE0606" width="456" height="120"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Rockroky&style=for-the-badge&color=D61515" height="32" alt=""/>
 
 ---
 
