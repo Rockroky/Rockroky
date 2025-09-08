@@ -46,7 +46,7 @@
 
 <p align="center" style="margin: 2em 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical&bg_color=0d1117&title_color=D61515&icon_color=BE0606&text_color=fff&border_radius=0&hide_border=true&hide_title=true&disable_animations=true" alt="stats" height="180"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rockroky&theme=react&hide_border=false" alt="streak" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rockroky&theme=radical&background=0d1117&ring=D61515&fire=BE0606&currStreakLabel=9F0F10&border_radius=0&hide_border=true&dates=fff&text=fff" alt="streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical&bg_color=0d1117&title_color=BE0606&text_color=fff&border_radius=0&hide_border=true&hide_title=true&card_width=400" alt="langs" height="180"/>
 </p>
 
