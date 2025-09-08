@@ -46,7 +46,7 @@
 
 <p align="center" style="margin: 2em 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Rockroky&show_icons=true&theme=radical&bg_color=0d1117&title_color=D61515&icon_color=BE0606&text_color=fff&border_radius=0&hide_border=true&hide_title=true&disable_animations=true" alt="stats" height="180"/>
-  <img src="https://camo.githubusercontent.com/c29e80927d2df17f8e9bbdc2852f739cf8f23beba7ce52cf3ed2a74f2a8019f3/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4461726b6d696e6479267468656d653d726561637426686964655f626f726465723d66616c7365" alt="streak" height="180"/>
+  <img src="https://camo.githubusercontent.com/c29e80927d2df17f8e9bbdc2852f739cf8f23beba7ce52cf3ed2a74f2a8019f3/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d526f636b726f6b79267468656d653d726561637426686964655f626f726465723d66616c7365" alt="streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockroky&layout=compact&theme=radical&bg_color=0d1117&title_color=BE0606&text_color=fff&border_radius=0&hide_border=true&hide_title=true&card_width=400" alt="langs" height="180"/>
 </p>
 
