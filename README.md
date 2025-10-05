@@ -20,7 +20,7 @@
 
 - 🔭 Attualmente sto lavorando alla **Versione 2 Di ASKY**
 - 🌱 Sto approfondendo **TypeScript, React, Node.js**
-- 💬 Scopri di più su asky nel mio profilo
+- 💬 Scopri di più sui convertitori da .EML ad .PDF nel mio profilo
 - 📫 Come contattarmi: <b>rosariom77@outlook.it</b>
 
 ---
