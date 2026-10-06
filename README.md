@@ -55,7 +55,6 @@
 ## 🌐 I Miei Social
 
 - [Spotify](https://open.spotify.com/user/mqwbzpl27pay9ku04jsd3zth7)
-- [Instagram](https://www.instagram.com/_rockroky)
 - [Twitch](https://www.twitch.tv/rockroky)
 
 ---
